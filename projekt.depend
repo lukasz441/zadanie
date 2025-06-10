@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1749583862 source:c:\users\brejn\desktop\projekt\projekt\pierwiastki.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	"pierwiastki.h"
+
+1749577242 c:\users\brejn\desktop\projekt\projekt\pierwiastki.h
+
+1749585076 source:c:\users\brejn\desktop\projekt\projekt\pole.cpp
+	<iostream>
+	<iomanip>
+	"pole.h"
+
+1749577229 c:\users\brejn\desktop\projekt\projekt\pole.h
+
+1749585175 source:c:\users\brejn\desktop\projekt\projekt\tablica.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tablica.h"
+
+1749577254 c:\users\brejn\desktop\projekt\projekt\tablica.h
+
+1749583657 source:c:\users\brejn\desktop\projekt\projekt\main.cpp
+	<iostream>
+	"pole.h"
+	"pierwiastki.h"
+	"tablica.h"
+	"sortowanie.h"
+
+1749577498 c:\users\brejn\desktop\projekt\projekt\sortowanie.h
+
+1749585161 source:c:\users\brejn\desktop\projekt\projekt\sortowanie.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"sortowanie.h"
+
